@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="nothing_playing">Nothing playing</string>
+    <string name="play_pause">Play or pause</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="permission_denied">Storage permission is required to load songs</string>
+</resources>
